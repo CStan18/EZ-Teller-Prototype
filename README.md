@@ -1,2 +1,3 @@
 # EZ-Teller-Prototype
-Prototyped version of teller software I used to use. Created using C#, MSSQL, .NET
+Prototyped version of teller software I've used previosuly.
+Created using C#, MSSQL, .NET
