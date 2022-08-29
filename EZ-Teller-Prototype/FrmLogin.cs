@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace EZ_Teller_Prototype
 {
-    public partial class Form1 : Form
+    public partial class FrmLogin : Form
     {
-        public Form1()
+        public FrmLogin()
         {
             InitializeComponent();
+        }
+
+        private void textBoxUserNo_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\bin\Debug\EZ-Teller-Prototype.exe.config
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\bin\Debug\EZ-Teller-Prototype.exe
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\bin\Debug\EZ-Teller-Prototype.pdb
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\bin\Debug\BLL.dll
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\bin\Debug\DAL.dll
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\bin\Debug\BLL.pdb
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\bin\Debug\DAL.pdb
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmLogin.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.Properties.Resources.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.csproj.GenerateResource.cache
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.csproj.CopyComplete
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.exe
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.pdb
