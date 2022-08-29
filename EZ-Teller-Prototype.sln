@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZ-Teller-Prototype", "EZ-Teller-Prototype\EZ-Teller-Prototype.csproj", "{A24F7E1D-2DF5-441E-A1BE-D58B9CC99A79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{D67BCD31-8D8A-4C05-8C96-D1EE4DE9D9A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F59DE0BE-C224-4D20-94B6-47075DD5BC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24F7E1D-2DF5-441E-A1BE-D58B9CC99A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24F7E1D-2DF5-441E-A1BE-D58B9CC99A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24F7E1D-2DF5-441E-A1BE-D58B9CC99A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24F7E1D-2DF5-441E-A1BE-D58B9CC99A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67BCD31-8D8A-4C05-8C96-D1EE4DE9D9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67BCD31-8D8A-4C05-8C96-D1EE4DE9D9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67BCD31-8D8A-4C05-8C96-D1EE4DE9D9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67BCD31-8D8A-4C05-8C96-D1EE4DE9D9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59DE0BE-C224-4D20-94B6-47075DD5BC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59DE0BE-C224-4D20-94B6-47075DD5BC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59DE0BE-C224-4D20-94B6-47075DD5BC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59DE0BE-C224-4D20-94B6-47075DD5BC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F40C9A88-4478-4FE9-B1F4-4F8F228A282C}
+	EndGlobalSection
+EndGlobal
