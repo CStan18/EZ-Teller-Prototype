@@ -15,3 +15,4 @@ C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\ob
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.exe
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ-Teller-Prototype.pdb
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmMain.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmDeposit.resources

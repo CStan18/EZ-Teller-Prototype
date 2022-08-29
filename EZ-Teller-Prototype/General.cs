@@ -9,6 +9,7 @@ namespace EZ_Teller_Prototype
 {
     public class General
     {
+        // Only allows nums and control characters as input
         public static bool isNumber(KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
