@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmAccountsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAccountsList.Designer.cs">
+      <DependentUpon>FrmAccountsList.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmDeposit.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +73,9 @@
     <Compile Include="General.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAccountsList.resx">
+      <DependentUpon>FrmAccountsList.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmDeposit.resx">
       <DependentUpon>FrmDeposit.cs</DependentUpon>
     </EmbeddedResource>

@@ -17,9 +17,10 @@ namespace EZ_Teller_Prototype
             InitializeComponent();
         }
 
+        // FIXME: asd
         private void txtAmount_KeyPress(object sender, KeyPressEventArgs e)
         {
-            e.Handled = General.isNumber(e);
+            e.Handled = General.IsNumber(e);
         }
     }
 }

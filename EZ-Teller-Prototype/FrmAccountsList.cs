@@ -10,21 +10,17 @@ using System.Windows.Forms;
 
 namespace EZ_Teller_Prototype
 {
-    public partial class FrmLogin : Form
+    public partial class FrmAccountsList : Form
     {
-        public FrmLogin()
+        public FrmAccountsList()
         {
             InitializeComponent();
         }
 
-        private void textBoxUserNo_KeyPress(object sender, KeyPressEventArgs e)
+        private void btnClose_Click_1(object sender, EventArgs e)
         {
-            e.Handled = General.IsNumber(e);
+            this.Close();
         }
 
-        private void btnExit_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
     }
 }
