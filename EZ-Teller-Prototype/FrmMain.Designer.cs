@@ -60,7 +60,7 @@
             this.lnkCloseAccount.Location = new System.Drawing.Point(322, 95);
             this.lnkCloseAccount.Name = "lnkCloseAccount";
             this.lnkCloseAccount.Size = new System.Drawing.Size(169, 24);
-            this.lnkCloseAccount.TabIndex = 1;
+            this.lnkCloseAccount.TabIndex = 6;
             this.lnkCloseAccount.TabStop = true;
             this.lnkCloseAccount.Text = "7. Close Account";
             // 
@@ -71,7 +71,7 @@
             this.lnkLookUp.Location = new System.Drawing.Point(73, 239);
             this.lnkLookUp.Name = "lnkLookUp";
             this.lnkLookUp.Size = new System.Drawing.Size(111, 24);
-            this.lnkLookUp.TabIndex = 2;
+            this.lnkLookUp.TabIndex = 4;
             this.lnkLookUp.TabStop = true;
             this.lnkLookUp.Text = "5. Look-Up";
             // 
@@ -93,7 +93,7 @@
             this.lnkMortgagePmnt.Location = new System.Drawing.Point(73, 143);
             this.lnkMortgagePmnt.Name = "lnkMortgagePmnt";
             this.lnkMortgagePmnt.Size = new System.Drawing.Size(174, 24);
-            this.lnkMortgagePmnt.TabIndex = 4;
+            this.lnkMortgagePmnt.TabIndex = 2;
             this.lnkMortgagePmnt.TabStop = true;
             this.lnkMortgagePmnt.Text = "3. Mortgage Pmnt";
             // 
@@ -104,7 +104,7 @@
             this.lnkWithdrawal.Location = new System.Drawing.Point(73, 95);
             this.lnkWithdrawal.Name = "lnkWithdrawal";
             this.lnkWithdrawal.Size = new System.Drawing.Size(135, 24);
-            this.lnkWithdrawal.TabIndex = 5;
+            this.lnkWithdrawal.TabIndex = 1;
             this.lnkWithdrawal.TabStop = true;
             this.lnkWithdrawal.Text = "2. Withdrawal";
             // 
@@ -115,7 +115,7 @@
             this.lnkBuyIn.Location = new System.Drawing.Point(322, 143);
             this.lnkBuyIn.Name = "lnkBuyIn";
             this.lnkBuyIn.Size = new System.Drawing.Size(145, 24);
-            this.lnkBuyIn.TabIndex = 6;
+            this.lnkBuyIn.TabIndex = 7;
             this.lnkBuyIn.TabStop = true;
             this.lnkBuyIn.Text = "8. Buy-in Cash";
             // 
@@ -126,7 +126,7 @@
             this.lnkOpenAccount.Location = new System.Drawing.Point(322, 47);
             this.lnkOpenAccount.Name = "lnkOpenAccount";
             this.lnkOpenAccount.Size = new System.Drawing.Size(168, 24);
-            this.lnkOpenAccount.TabIndex = 7;
+            this.lnkOpenAccount.TabIndex = 5;
             this.lnkOpenAccount.TabStop = true;
             this.lnkOpenAccount.Text = "6. Open Account";
             // 
