@@ -21,5 +21,10 @@ namespace EZ_Teller_Prototype
         {
             e.Handled = General.isNumber(e);
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

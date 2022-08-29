@@ -52,7 +52,7 @@
             this.textBoxUserNo.Location = new System.Drawing.Point(128, 31);
             this.textBoxUserNo.Name = "textBoxUserNo";
             this.textBoxUserNo.Size = new System.Drawing.Size(186, 26);
-            this.textBoxUserNo.TabIndex = 1;
+            this.textBoxUserNo.TabIndex = 0;
             this.textBoxUserNo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxUserNo_KeyPress);
             // 
             // textBoxPassword
@@ -61,7 +61,7 @@
             this.textBoxPassword.Location = new System.Drawing.Point(128, 63);
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.Size = new System.Drawing.Size(186, 26);
-            this.textBoxPassword.TabIndex = 3;
+            this.textBoxPassword.TabIndex = 1;
             // 
             // txtPassword
             // 
@@ -79,7 +79,7 @@
             this.btnEnter.Location = new System.Drawing.Point(187, 115);
             this.btnEnter.Name = "btnEnter";
             this.btnEnter.Size = new System.Drawing.Size(82, 34);
-            this.btnEnter.TabIndex = 4;
+            this.btnEnter.TabIndex = 2;
             this.btnEnter.Text = "Enter";
             this.btnEnter.UseVisualStyleBackColor = true;
             // 
@@ -89,9 +89,10 @@
             this.btnExit.Location = new System.Drawing.Point(65, 115);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(82, 34);
-            this.btnExit.TabIndex = 5;
+            this.btnExit.TabIndex = 3;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // FrmLogin
             // 
