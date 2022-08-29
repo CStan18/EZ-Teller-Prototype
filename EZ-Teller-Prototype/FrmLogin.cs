@@ -19,10 +19,7 @@ namespace EZ_Teller_Prototype
 
         private void textBoxUserNo_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
-            {
-                e.Handled = true;
-            }
+            e.Handled = General.isNumber(e);
         }
     }
 }
