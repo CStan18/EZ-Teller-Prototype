@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caleb\\OneDrive\\Desktop\\CDev\\EZ-Teller-Prototype\\EZ-Teller-Prototype\\EZ-Teller-Prototype.csproj",
+      "projectUniqueName": "C:\\Users\\caleb\\OneDrive\\Desktop\\repos\\EZ-Teller-Prototype\\EZ-Teller-Prototype\\EZ-Teller-Prototype.csproj",
       "projectName": "EZ-Teller-Prototype",
-      "projectPath": "C:\\Users\\caleb\\OneDrive\\Desktop\\CDev\\EZ-Teller-Prototype\\EZ-Teller-Prototype\\EZ-Teller-Prototype.csproj",
+      "projectPath": "C:\\Users\\caleb\\OneDrive\\Desktop\\repos\\EZ-Teller-Prototype\\EZ-Teller-Prototype\\EZ-Teller-Prototype.csproj",
       "packagesPath": "C:\\Users\\caleb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caleb\\OneDrive\\Desktop\\CDev\\EZ-Teller-Prototype\\EZ-Teller-Prototype\\obj\\",
+      "outputPath": "C:\\Users\\caleb\\OneDrive\\Desktop\\repos\\EZ-Teller-Prototype\\EZ-Teller-Prototype\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
