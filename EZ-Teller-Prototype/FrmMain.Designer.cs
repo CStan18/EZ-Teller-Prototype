@@ -38,6 +38,8 @@
             this.lnkOpenAccount = new System.Windows.Forms.LinkLabel();
             this.lnkSell = new System.Windows.Forms.LinkLabel();
             this.lnkBalance = new System.Windows.Forms.LinkLabel();
+            this.btnLogOut = new System.Windows.Forms.Button();
+            this.btnExit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lnkDeposit
@@ -150,11 +152,33 @@
             this.lnkBalance.TabStop = true;
             this.lnkBalance.Text = "0. Balance";
             // 
+            // btnLogOut
+            // 
+            this.btnLogOut.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogOut.Location = new System.Drawing.Point(77, 309);
+            this.btnLogOut.Name = "btnLogOut";
+            this.btnLogOut.Size = new System.Drawing.Size(130, 33);
+            this.btnLogOut.TabIndex = 10;
+            this.btnLogOut.Text = "Log Out";
+            this.btnLogOut.UseVisualStyleBackColor = true;
+            // 
+            // btnExit
+            // 
+            this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExit.Location = new System.Drawing.Point(313, 309);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(130, 33);
+            this.btnExit.TabIndex = 11;
+            this.btnExit.Text = "Exit";
+            this.btnExit.UseVisualStyleBackColor = true;
+            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(582, 322);
+            this.ClientSize = new System.Drawing.Size(576, 378);
+            this.Controls.Add(this.btnExit);
+            this.Controls.Add(this.btnLogOut);
             this.Controls.Add(this.lnkBalance);
             this.Controls.Add(this.lnkSell);
             this.Controls.Add(this.lnkOpenAccount);
@@ -185,5 +209,7 @@
         private System.Windows.Forms.LinkLabel lnkOpenAccount;
         private System.Windows.Forms.LinkLabel lnkSell;
         private System.Windows.Forms.LinkLabel lnkBalance;
+        private System.Windows.Forms.Button btnLogOut;
+        private System.Windows.Forms.Button btnExit;
     }
 }
