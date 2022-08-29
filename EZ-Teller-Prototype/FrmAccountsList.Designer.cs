@@ -69,7 +69,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1191, 172);
+            this.panel1.Size = new System.Drawing.Size(1010, 172);
             this.panel1.TabIndex = 4;
             // 
             // lblAccountType
@@ -159,13 +159,13 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel2.Location = new System.Drawing.Point(0, 586);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1191, 100);
+            this.panel2.Size = new System.Drawing.Size(1010, 100);
             this.panel2.TabIndex = 5;
             // 
             // btnClose
             // 
             this.btnClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose.Location = new System.Drawing.Point(820, 31);
+            this.btnClose.Location = new System.Drawing.Point(709, 31);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(121, 38);
             this.btnClose.TabIndex = 7;
@@ -176,7 +176,7 @@
             // btnDelete
             // 
             this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDelete.Location = new System.Drawing.Point(632, 31);
+            this.btnDelete.Location = new System.Drawing.Point(521, 31);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(121, 38);
             this.btnDelete.TabIndex = 6;
@@ -186,7 +186,7 @@
             // btnUpdate
             // 
             this.btnUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnUpdate.Location = new System.Drawing.Point(432, 31);
+            this.btnUpdate.Location = new System.Drawing.Point(321, 31);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(121, 38);
             this.btnUpdate.TabIndex = 5;
@@ -196,7 +196,7 @@
             // btnAdd
             // 
             this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAdd.Location = new System.Drawing.Point(250, 31);
+            this.btnAdd.Location = new System.Drawing.Point(139, 31);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(121, 38);
             this.btnAdd.TabIndex = 4;
@@ -209,7 +209,7 @@
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.Location = new System.Drawing.Point(0, 172);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(1191, 414);
+            this.dataGridView1.Size = new System.Drawing.Size(1010, 414);
             this.dataGridView1.TabIndex = 6;
             // 
             // btnSearch
@@ -244,7 +244,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1191, 686);
+            this.ClientSize = new System.Drawing.Size(1010, 686);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
