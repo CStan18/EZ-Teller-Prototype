@@ -10,22 +10,21 @@ using System.Windows.Forms;
 
 namespace EZ_Teller_Prototype
 {
-    public partial class FrmDeposit : Form
+    public partial class FrmCreateAccount : Form
     {
-        public FrmDeposit()
+        public FrmCreateAccount()
         {
             InitializeComponent();
-        }
-
-        // FIXME: asd
-        private void txtAmount_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            e.Handled = General.IsNumber(e);
         }
 
         private void btnClose_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnDone_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
