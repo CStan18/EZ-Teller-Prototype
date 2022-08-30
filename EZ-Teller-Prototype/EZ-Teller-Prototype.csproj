@@ -52,6 +52,12 @@
     <Compile Include="FrmAccountsList.Designer.cs">
       <DependentUpon>FrmAccountsList.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCreateAccount.Designer.cs">
+      <DependentUpon>FrmCreateAccount.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmDeposit.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmAccountsList.resx">
       <DependentUpon>FrmAccountsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCreateAccount.resx">
+      <DependentUpon>FrmCreateAccount.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmDeposit.resx">
       <DependentUpon>FrmDeposit.cs</DependentUpon>
