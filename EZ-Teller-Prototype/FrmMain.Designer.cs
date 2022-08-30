@@ -148,6 +148,7 @@
             this.lnkSell.TabIndex = 8;
             this.lnkSell.TabStop = true;
             this.lnkSell.Text = "9. Sell Cash";
+            this.lnkSell.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkSell_LinkClicked);
             // 
             // lnkBalance
             // 

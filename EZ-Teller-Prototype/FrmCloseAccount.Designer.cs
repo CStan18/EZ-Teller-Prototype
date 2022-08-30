@@ -82,6 +82,7 @@
             this.Controls.Add(this.txtAmount);
             this.Controls.Add(this.lblAccount);
             this.Name = "FrmCloseAccount";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Close Account";
             this.ResumeLayout(false);
             this.PerformLayout();

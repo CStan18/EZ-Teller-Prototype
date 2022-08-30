@@ -22,3 +22,5 @@ C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\ob
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmMortgagePmnt.resources
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmSellCash.resources
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmWithdrawal.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmCloseAccount.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmLoanPmnt.resources

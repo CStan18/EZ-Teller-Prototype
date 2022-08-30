@@ -58,6 +58,12 @@
     <Compile Include="FrmBuyCash.Designer.cs">
       <DependentUpon>FrmBuyCash.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCloseAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCloseAccount.Designer.cs">
+      <DependentUpon>FrmCloseAccount.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmCreateAccount.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,6 +75,12 @@
     </Compile>
     <Compile Include="FrmDeposit.Designer.cs">
       <DependentUpon>FrmDeposit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLoanPmnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLoanPmnt.Designer.cs">
+      <DependentUpon>FrmLoanPmnt.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmLogin.cs">
       <SubType>Form</SubType>
@@ -109,11 +121,17 @@
     <EmbeddedResource Include="FrmBuyCash.resx">
       <DependentUpon>FrmBuyCash.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmCloseAccount.resx">
+      <DependentUpon>FrmCloseAccount.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmCreateAccount.resx">
       <DependentUpon>FrmCreateAccount.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmDeposit.resx">
       <DependentUpon>FrmDeposit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLoanPmnt.resx">
+      <DependentUpon>FrmLoanPmnt.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>

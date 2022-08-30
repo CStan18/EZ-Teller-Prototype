@@ -82,6 +82,7 @@
             this.Controls.Add(this.txtAmount);
             this.Controls.Add(this.lblAmount);
             this.Name = "FrmLoanPmnt";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Loan Payment";
             this.ResumeLayout(false);
             this.PerformLayout();

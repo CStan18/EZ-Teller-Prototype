@@ -92,5 +92,13 @@ namespace EZ_Teller_Prototype
             frmBuyCash.ShowDialog();
             this.Visible = true;
         }
+
+        private void lnkSell_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            FrmSellCash frmSellCash = new FrmSellCash();
+            this.Hide();
+            frmSellCash.ShowDialog();
+            this.Visible = true;
+        }
     }
 }
