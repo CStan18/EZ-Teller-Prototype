@@ -17,3 +17,8 @@ C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\ob
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmMain.resources
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmDeposit.resources
 C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmAccountsList.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmBuyCash.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmCreateAccount.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmMortgagePmnt.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmSellCash.resources
+C:\Users\caleb\OneDrive\Desktop\repos\EZ-Teller-Prototype\EZ-Teller-Prototype\obj\Debug\EZ_Teller_Prototype.FrmWithdrawal.resources

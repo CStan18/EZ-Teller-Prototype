@@ -52,6 +52,12 @@
     <Compile Include="FrmAccountsList.Designer.cs">
       <DependentUpon>FrmAccountsList.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmBuyCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuyCash.Designer.cs">
+      <DependentUpon>FrmBuyCash.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmCreateAccount.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,11 +82,32 @@
     <Compile Include="FrmMain.Designer.cs">
       <DependentUpon>FrmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmMortgagePmnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMortgagePmnt.Designer.cs">
+      <DependentUpon>FrmMortgagePmnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSellCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSellCash.Designer.cs">
+      <DependentUpon>FrmSellCash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWithdrawal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWithdrawal.Designer.cs">
+      <DependentUpon>FrmWithdrawal.cs</DependentUpon>
+    </Compile>
     <Compile Include="General.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmAccountsList.resx">
       <DependentUpon>FrmAccountsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuyCash.resx">
+      <DependentUpon>FrmBuyCash.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCreateAccount.resx">
       <DependentUpon>FrmCreateAccount.cs</DependentUpon>
@@ -93,6 +120,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMortgagePmnt.resx">
+      <DependentUpon>FrmMortgagePmnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSellCash.resx">
+      <DependentUpon>FrmSellCash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWithdrawal.resx">
+      <DependentUpon>FrmWithdrawal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

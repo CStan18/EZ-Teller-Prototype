@@ -26,5 +26,12 @@ namespace EZ_Teller_Prototype
         {
             Application.Exit();
         }
+
+        private void btnEnter_Click(object sender, EventArgs e)
+        {
+            FrmMain frm = new FrmMain();
+            this.Hide();
+            frm.ShowDialog();
+        }
     }
 }

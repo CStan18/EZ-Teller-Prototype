@@ -52,6 +52,7 @@
             this.lnkDeposit.TabIndex = 0;
             this.lnkDeposit.TabStop = true;
             this.lnkDeposit.Text = "1. Deposit";
+            this.lnkDeposit.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkDeposit_LinkClicked);
             // 
             // lnkCloseAccount
             // 
@@ -63,6 +64,7 @@
             this.lnkCloseAccount.TabIndex = 6;
             this.lnkCloseAccount.TabStop = true;
             this.lnkCloseAccount.Text = "7. Close Account";
+            this.lnkCloseAccount.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkCloseAccount_LinkClicked);
             // 
             // lnkLookUp
             // 
@@ -74,6 +76,7 @@
             this.lnkLookUp.TabIndex = 4;
             this.lnkLookUp.TabStop = true;
             this.lnkLookUp.Text = "5. Look-Up";
+            this.lnkLookUp.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkLookUp_LinkClicked);
             // 
             // lnkLoanPmnt
             // 
@@ -85,6 +88,7 @@
             this.lnkLoanPmnt.TabIndex = 3;
             this.lnkLoanPmnt.TabStop = true;
             this.lnkLoanPmnt.Text = "4. Loan Pmnt";
+            this.lnkLoanPmnt.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkLoanPmnt_LinkClicked);
             // 
             // lnkMortgagePmnt
             // 
@@ -96,6 +100,7 @@
             this.lnkMortgagePmnt.TabIndex = 2;
             this.lnkMortgagePmnt.TabStop = true;
             this.lnkMortgagePmnt.Text = "3. Mortgage Pmnt";
+            this.lnkMortgagePmnt.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkMortgagePmnt_LinkClicked);
             // 
             // lnkWithdrawal
             // 
@@ -107,6 +112,7 @@
             this.lnkWithdrawal.TabIndex = 1;
             this.lnkWithdrawal.TabStop = true;
             this.lnkWithdrawal.Text = "2. Withdrawal";
+            this.lnkWithdrawal.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkWithdrawal_LinkClicked);
             // 
             // lnkBuyIn
             // 
@@ -118,6 +124,7 @@
             this.lnkBuyIn.TabIndex = 7;
             this.lnkBuyIn.TabStop = true;
             this.lnkBuyIn.Text = "8. Buy-in Cash";
+            this.lnkBuyIn.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkBuyIn_LinkClicked);
             // 
             // lnkOpenAccount
             // 
@@ -129,6 +136,7 @@
             this.lnkOpenAccount.TabIndex = 5;
             this.lnkOpenAccount.TabStop = true;
             this.lnkOpenAccount.Text = "6. Open Account";
+            this.lnkOpenAccount.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkOpenAccount_LinkClicked);
             // 
             // lnkSell
             // 
@@ -161,6 +169,7 @@
             this.btnLogOut.TabIndex = 10;
             this.btnLogOut.Text = "Log Out";
             this.btnLogOut.UseVisualStyleBackColor = true;
+            this.btnLogOut.Click += new System.EventHandler(this.btnLogOut_Click);
             // 
             // btnExit
             // 
